@@ -1,6 +1,8 @@
 # Hola, Soy  Danni👋😄
 
+<p aling="center">
 <img src="foto.png"  width="500" height="400">
+</p>
 
 
 ## Sobre mi🖐️
