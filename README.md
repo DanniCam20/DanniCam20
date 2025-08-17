@@ -1,5 +1,5 @@
 # Hola, Soy  Danni👋😄
-![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Faxiacore.com%2Fblog%2Fux-ui-la-formula-del-exito-en-el-desarrollo-de-software-745%2F&psig=AOvVaw18RzIY-EYTHFIbA2in0JUf&ust=1755492841000000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiS5cuGkY8DFQAAAAAdAAAAABAL)
 
 ## Sobre mi🖐️
 
