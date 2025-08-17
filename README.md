@@ -15,6 +15,5 @@ Desde niño he sentido una gran curiosidad por la tecnología y la programación
 -🚀 Apasionado por el desarrollo de software.  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/TUUSUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tuemail@gmail.com)
+
 
