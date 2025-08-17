@@ -1,5 +1,7 @@
 # Hola, Soy  Danni👋😄
-![Logo](foto.png "Mi_logo")
+
+<img src="foto.png"  width="300" height="200">
+
 
 ## Sobre mi🖐️
 
