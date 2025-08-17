@@ -1,6 +1,6 @@
 # Hola, Soy  Danni👋😄
 
-<img src="foto.png"  width="300" height="200">
+<img src="foto.png"  width="500" height="400">
 
 
 ## Sobre mi🖐️
