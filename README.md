@@ -8,6 +8,6 @@
 > [!TIP]
 >
 > - 💻 Estudiante de Tecnología en Análisis y Desarrollo de Software en el Politécnico Internacional.  
-> - 🚀 Apasionado por el desarrollo de software.
+> - 🚀 Apasionado por el desarrollo de software, en especial desarrollo web.
 
 
