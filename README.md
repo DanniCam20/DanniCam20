@@ -11,10 +11,3 @@
 > - 🚀 Apasionado por el desarrollo de software.
 
 
-```nombre 
-    
-Danni
-
-
-
-```
